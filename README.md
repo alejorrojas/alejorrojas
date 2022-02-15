@@ -1,3 +1,8 @@
+
+
+  <img src='Header.png'/>
+
+
 <h1 align="center">Hi 👋, I'm Alejo</h1>
 <h3 align="center">FrontEnd developer 👨‍💻</h3>
 
