@@ -7,8 +7,9 @@
 <h3 align="center">FullStack developer 👨‍💻</h3>
 
 - 👨‍💻 Working in <a href='https://github.com/alejorrojas/WeatherApp-Proyect'>WeatherApp</a>
-- 🌱 I’m currently learning TypeScript and Backend with NodeJS and Express
+- 🌱 I'm currently learning TypeScript and Backend with NodeJS and Express
 - 💬 Ask me about FrontEnd tools as React, Redux, HTML or CSS!
+- ⛓ Passionate about blockchain
 - 📫 Reach me at: <a href="https://www.linkedin.com/in/alejorrojas/" >Linkedin</a>
 
 
