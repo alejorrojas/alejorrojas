@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hello World 👋, I'm Alejo</h1>
-<h3 align="center">FrontEnd developer 👨‍💻</h3>
+<h3 align="center">FullStack developer 👨‍💻</h3>
 
 - 👨‍💻 Working in <a href='https://github.com/alejorrojas/WeatherApp-Proyect'>WeatherApp</a>
 - 🌱 I’m currently learning TypeScript and Backend with NodeJS and Express
