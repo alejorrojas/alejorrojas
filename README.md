@@ -6,9 +6,9 @@
 <h1 align="center">Hello World 👋, I'm Alejo</h1>
 <h3 align="center">FullStack developer 👨‍💻</h3>
 
-- 👨‍💻 Working on <a href='https://github.com/martinsione/ticketek-web3'>NFTicket</a>
+- 👨‍💻 Working at <a href='https://www.digitalhouse.com/ar/'>Digital House</a>
 - 🌱 I'm currently learning Web3.0 
-- 💬 Ask me about FullStack tools as React, Redux, HTML, CSS, Node, Express or SQL!
+- 💬 Ask me about Frontend tools as React, Redux, Next, Styled Components, web3.js or Typescript!
 - ⛓ Passionate about blockchain
 - 📫 Reach me at: <a href="https://www.linkedin.com/in/alejorrojas/" >Linkedin</a>
 
