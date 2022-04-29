@@ -7,6 +7,7 @@
 <h3 align="center">FullStack developer 👨‍💻</h3>
 
 - 👨‍💻 Working at <a href='https://www.digitalhouse.com/ar/'>Digital House</a>
+- 🌟 My biggest proyect? <a href='https://github.com/martinsione/ticketek-web3'>NFTicket</a>
 - 🌱 I'm currently learning Web3.0 
 - 💬 Ask me about Frontend tools as React, Redux, Next, Styled Components, web3.js or Typescript!
 - ⛓ Passionate about blockchain
