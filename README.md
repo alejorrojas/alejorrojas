@@ -8,9 +8,8 @@
 
 - 👨‍💻 Working at [Digital House](https://www.digitalhouse.com/ar/)
 - 🥽 System Engineer Student at [UTN](https://www.utn.edu.ar/es/) 
-- 🎐 My biggest proyect? [NFTicket](https://github.com/martinsione/ticketek-web3)
 - 💬 Ask me about FullStack Tools as **NextJS, React, Redux, Typescript, NodeJS or Databases!**
-- 🌱 I’m currently learning **Web 3.0, Blockchain and Solidity**
+- 🌱 I’m currently learning **AWS and Cloud**
 -  📫 Reach me at: <a href="https://www.linkedin.com/in/alejorrojas/" >Linkedin</a>
 
 <hr/>
