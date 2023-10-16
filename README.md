@@ -6,7 +6,6 @@
 <h1 align="center">Hi, I'm Alejo</h1>
 <h3 align="center">FullStack developer 💻</h3>
 
-- 👨‍💻 Working at [Digital House](https://www.digitalhouse.com/ar/)
 - 🥽 System Engineer Student at [UTN](https://www.utn.edu.ar/es/) 
 - 💬 Ask me about FullStack Tools as **NextJS, React, Redux, Typescript, NodeJS or Databases!**
 - 🌱 I’m currently learning **AWS and Cloud**
