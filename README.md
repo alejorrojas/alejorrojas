@@ -1,3 +1,3 @@
 <a href="https://readme.alejo.fun" target="_blank">
-  <img src="readme-lg.png" style="width: 100%;" />
+  <img src="readme-xl.png" style="width: 100%;" />
 </a>
