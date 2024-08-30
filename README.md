@@ -4,6 +4,6 @@
 </br>
 </br>
 </br>
-Hint: click the image.
+
 
 
